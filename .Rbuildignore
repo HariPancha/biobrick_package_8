@@ -1,5 +1,6 @@
 Ham\.Rproj$
 ^\.Rproj\.user$
+<<<<<<< HEAD
 ^Ham\.Rcheck$
 ^Ham.*\.tar\.gz$
 ^Ham.*\.tgz$
@@ -9,3 +10,8 @@ Ham\.Rproj$
 ^Ham.*\.tgz$
 
 
+=======
+^mypkgname\.Rcheck$
+^mypkgname.*\.tar\.gz$
+^mypkgname.*\.tgz$
+>>>>>>> 7f048e3e7cbe4e047387b85844dec6cf19d60048

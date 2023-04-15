@@ -7,8 +7,11 @@ mypkgname.Rcheck/
 mypkgname*.tar.gz
 mypkgname*.tgz
 <<<<<<< HEAD
+<<<<<<< HEAD
 Ham.Rcheck/
 Ham*.tar.gz
 Ham*.tgz
 =======
 >>>>>>> c202022cdac2ee8e99909e263150011317385a73
+=======
+>>>>>>> 7f048e3e7cbe4e047387b85844dec6cf19d60048
