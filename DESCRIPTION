@@ -1,12 +1,27 @@
-Package: mypkgname
+Package: Ham
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
-Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+Authors@R:
+  c(person(given = "Harini",
+  family = "Pancha",
+  role = c("aut", "cre"),
+  email = "harini.panchapakesan@igem.se"),
+  person(given = "Marc",
+  family = "Kessels Sole",
+  role = "aut"
+  email = "marckesselssole@gmail.com"),
+  person(given = "Annabell",
+  family = "Hannibalsen",
+  role = "aut",
+  gitcreds::gitcreds_set()email = "annabelle.hannibalsen@gmail.com"))
 Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.1.2
+RoxygenNote: 7.2.3
+<<<<<<< HEAD
+=======
+Depends: 
+    R (>= 2.10)
+LazyData: true
+>>>>>>> c202022cdac2ee8e99909e263150011317385a73

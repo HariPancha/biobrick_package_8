@@ -3,3 +3,12 @@
 .Rdata
 .httr-oauth
 .DS_Store
+mypkgname.Rcheck/
+mypkgname*.tar.gz
+mypkgname*.tgz
+<<<<<<< HEAD
+Ham.Rcheck/
+Ham*.tar.gz
+Ham*.tgz
+=======
+>>>>>>> c202022cdac2ee8e99909e263150011317385a73

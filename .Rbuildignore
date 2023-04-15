@@ -1,2 +1,11 @@
-^mypkgname\.Rproj$
+Ham\.Rproj$
 ^\.Rproj\.user$
+^Ham\.Rcheck$
+^Ham.*\.tar\.gz$
+^Ham.*\.tgz$
+^LICENSE\.md$
+^Ham\.Rcheck$
+^Ham.*\.tar\.gz$
+^Ham.*\.tgz$
+
+
